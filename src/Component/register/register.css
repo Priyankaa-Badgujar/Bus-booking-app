@@ -55,8 +55,8 @@
     height: 35px;
     }
 
-    .registerdiv{
-        width: 320px;
+    .registerform form input ::placeholder{
+        background-color: white;
     }
     .registerform form{
     margin-top: 40px;
@@ -71,7 +71,7 @@
 
     .registerform {
     text-align: center;
-    margin-top: 0px;
+    margin-top: 46px;
     align-items: center;
     display: flex;
     flex-direction: column;
@@ -80,4 +80,5 @@
     width:320px;
     color: white;
 }
+
 }
